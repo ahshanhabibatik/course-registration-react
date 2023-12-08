@@ -1,0 +1,74 @@
+[
+    {
+        "course_id": 1,
+        "course_name": "Introduction to C Programming",
+        "course_description": "This course introduces you to the fundamentals of the C programming language. You'll learn about basic syntax, data types, and how to write simple C programs. It's an ideal starting point for beginners in programming.",
+        "price": 15000,
+        "credit_hours": 1,
+        "image_url": "https://i.ibb.co/RvwfKy9/Rectangle-2-2.png"
+    },
+    {
+        "course_id": 2,
+        "course_name": "Introduction to Algorithms",
+        "course_description": "Explore the world of algorithms and problem-solving techniques in this introductory course. You'll learn how to analyze and design algorithms to solve a variety of computational problems. This course sets a strong foundation.",
+        "price": 25000,
+        "credit_hours": 2,
+        "image_url": "https://i.ibb.co/71F1hB8/Rectangle-2-3.png"
+    },
+    {
+        "course_id": 3,
+        "course_name": "Introduction to C++ for DSA",
+        "course_description": "Dive into the world of data structures and algorithms with C++. This course equips you with the knowledge and skills needed for data science and machine learning. It combines the power of C++ with critical problem-solving capabilities.",
+        "price": 10000,
+        "credit_hours": 10,
+        "image_url": "https://i.ibb.co/mJJWKPV/Rectangle-2-4.png"
+    },
+    {
+        "course_id": 4,
+        "course_name": "Basic Data Structures",
+        "course_description": "Get started with essential data structures such as arrays, linked lists, and stacks. This course will teach you how to implement and use these data structures effectively to solve complex problems.",
+        "price": 35000,
+        "credit_hours": 5,
+        "image_url": "https://i.ibb.co/yPVCy8p/Rectangle-3.png"
+    },
+    {
+        "course_id": 5,
+        "course_name": "Introduction to OOP Python",
+        "course_description": "Learn the principles of Object-Oriented Programming (OOP) in Python. You'll discover how to create and work with classes, objects, and inheritance in Python, enabling you to design modular.",
+        "price": 19000,
+        "credit_hours": 5,
+        "image_url": "https://i.ibb.co/q1J6w7H/Rectangle-2.png"
+    },
+    {
+        "course_id": 6,
+        "course_name": "Software Engineering",
+        "course_description": "Master the art of software engineering in this comprehensive course. Explore software development methodologies, project management techniques, and best practices in software design to excel.",
+        "price": 23000,
+        "credit_hours": 2,
+        "image_url": "https://i.ibb.co/fCT4N9m/Rectangle-2-5.png"
+    },
+    {
+        "course_id": 7,
+        "course_name": "AWS, Cloud Computing",
+        "course_description": "Explore the world of cloud computing with a focus on Amazon Web Services (AWS). This course will teach you how to deploy and manage applications in the cloud, making you proficient in cloud.",
+        "price": 35000,
+        "credit_hours": 5,
+        "image_url": "https://i.ibb.co/FbkQ3MX/Rectangle-3-1.png"
+    },
+    {
+        "course_id": 8,
+        "course_name": "Database (MySQL)",
+        "course_description": "Delve into the versatile MySQL database system, mastering data storage, querying, and management. Gain essential skills for designing and optimizing relational databases, enhancing your data.",
+        "price": 19000,
+        "credit_hours": 5,
+        "image_url": "https://i.ibb.co/wJVZF4w/Rectangle-2-1.png"
+    },
+    {
+        "course_id": 9,
+        "course_name": "Problem-Solving Part",
+        "course_description": "This course is designed to enhance your problem-solving skills. You'll tackle various real-world problems and learn effective strategies for finding solutions, making you a proficient problem solver.",
+        "price": 23000,
+        "credit_hours": 2,
+        "image_url": "https://i.ibb.co/J7793XR/Rectangle-2-6.png"
+    }
+]
