@@ -1,12 +1,4 @@
-# Course Registration
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+[Click here](https://6503a866974ccb30da14acd7--frolicking-hamster-6137e6.netlify.app/) to visit the live link.
 
  # Question-1:Add at least 3 Project features.
 
@@ -53,8 +45,4 @@ Currently, two official plugins are available:
     2.When a condition is met, the setSelectButtonMessage function is called to set the appropriate message, and it's displayed in the UI.
 
 Overall, state management in this project is used to keep track of various aspects of the application, such as selected courses, credit hours, and alert messages. The useState hook is a key tool for managing and updating these states in a React application, ensuring that the UI reflects the current state of the application accurately.
-
-
-
-
 
