@@ -18,7 +18,7 @@
 
   Here's how state is managed in different aspects of my project:
 
- 1.Bookmarked Courses and Total Price:
+ ## Bookmarked Courses and Total Price:
 
      1.The bookmarkedCourses state is used to keep track of the courses that the user has added to their bookmarks. It is initialized as an empty array using useState.
 
@@ -27,22 +27,29 @@
      3.The totalPrice state is used to calculate and display the total price of all bookmarked courses. It is also initialized as 0 using useState, and it's updated whenever a course is added or removed from bookmarks.
 
 
-  Selected Course Names:
+ ## Selected Course Names:
 
     1.The selectedCourseNames state is used to keep track of the names of courses that have been selected. It is initialized as an empty array using useState.
 
     2.Whenever a course is selected, its name is added to this state using the setSelectedCourseNames function. This helps prevent selecting the same course multiple times.
 
-  Credit Hour Calculation:
+  ## Credit Hour Calculation:
 
     1.The total credit hours are calculated based on the courses in the bookmarkedCourses array. The totalCreditHours state is computed by using the reduce function to sum the credit hours of all bookmarked courses.
 
     2.The remaining credit hours are calculated as 20 - totalCreditHours. This value is stored in the creditHourRemaining state and used to determine if a course can be selected based on the available credit hours.
 
- Select Button Message:
+## Select Button Message:
 
     1.The selectButtonMessage state is used to display alert messages to the user when certain conditions are met (e.g., course is already selected, exceeds remaining credit hours, etc.).
     2.When a condition is met, the setSelectButtonMessage function is called to set the appropriate message, and it's displayed in the UI.
 
 Overall, state management in this project is used to keep track of various aspects of the application, such as selected courses, credit hours, and alert messages. The useState hook is a key tool for managing and updating these states in a React application, ensuring that the UI reflects the current state of the application accurately.
+
+## Technologies Used
+- React
+- React Router for routing
+- Axios for making API requests
+- SweetAlert2 for user-friendly alerts
+- Responsive
 
